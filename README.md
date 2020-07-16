@@ -7,6 +7,10 @@ Arrange&amp;Categorize recent Learned Index Papers
 #### One-Dimensional
 
 Learned Index Cases, [The_Case_for_Learned_Index_Structures](/Notes/Learned_Index_Presentation_2020_6_28.pptx) \[[Paper](/Papers/The_Case_for_Learned_Index_Structures.pdf)\], SIGMOD17. <br>
+Ada-Bloom Filter, Adaptive Learned Bloom Filter (Ada-BF):
+Efficient Utilization of the Classifier, \[[Paper](/Papers/Adaptive_Learned_Bloom_Filter_Efficient_Utilization_of_the_Classifier.pdf)\], preprint19.
+Sandwiching Bloom Filter, A Model for Learned Bloom Filters, and Optimizing by Sandwiching, \[[Paper](/Papers/A_Model_for_Learned_Bloom_Filters_and_Optimizing_by_Sandwiching.pdf)\], NIPS20.
+Partitioned Learned Bloom Filters(PLBF), Partitioned Learned Bloom Filters. \[[Paper](/Papers/Partitioned_Learned_Bloom_Filters.pdf)\], preprint20.
 
 
 #### Multi-Dimensional
