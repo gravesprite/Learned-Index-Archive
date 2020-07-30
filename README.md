@@ -11,7 +11,7 @@ Ada-Bloom Filter, Adaptive Learned Bloom Filter (Ada-BF):
 Efficient Utilization of the Classifier, \[[Paper](/Papers/Adaptive_Learned_Bloom_Filter_Efficient_Utilization_of_the_Classifier.pdf)\], preprint19.
 Sandwiching Bloom Filter, A Model for Learned Bloom Filters, and Optimizing by Sandwiching, \[[Paper](/Papers/A_Model_for_Learned_Bloom_Filters_and_Optimizing_by_Sandwiching.pdf)\], NIPS20.
 Partitioned Learned Bloom Filters(PLBF), Partitioned Learned Bloom Filters. \[[Paper](/Papers/Partitioned_Learned_Bloom_Filters.pdf)\], preprint20.
-
+RadixSpline(RS), RadixSpline: A Single-Pass Learned Index. \[[Paper](/Papers/RadixSpline_A_Single-Pass_Learned_Index.pdf)\], preprint20
 
 #### Multi-Dimensional
 
