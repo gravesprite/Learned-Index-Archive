@@ -20,6 +20,7 @@ Grid & Flood operation, [Flood: Learning_Multi-dimensional_Indexes](/Notes/Learn
 Tsunami, Tsunami: A Learned Multi-dimensional Index for Correlated Data and SkewedWorkloads, \[[Paper](/Papers/Tsunami_A_Learned_Multi-dimensional_Index_for_Correlated_Data_and_SkewedWorkloads.pdf)\], Preprint. <br>
 Learned Bloom Filter, [Lifting_the_Curse_of_Multidimensional_Data_with_Learned_Existence_Indexes](/Notes/Learned_Index_Presentation_2020_6_28.pptx),  \[[Paper](/Papers/Lifting_the_Curse_of_Multidimensional_Data_with_Learned_Existence_Indexes.pdf)\], Nips18 workshop.<br>
 LISA, LISA: A Learned Index Structure for Spatial Data, \[[Paper](/Papers/LISA_A_Learned_Index_Structure_for_Spatial_Data.pdf)\], SIGMOD20.<br>
+Qd-Tree, Qd-tree: Learning Data Layouts for Big Data Analytics, \[[Paper](/Papers/Qd-tree.pdf)\], SIGMOD20.<br>
 
 ### Secondary Index
 
