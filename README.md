@@ -22,6 +22,10 @@ Learned Bloom Filter, [Lifting_the_Curse_of_Multidimensional_Data_with_Learned_E
 LISA, LISA: A Learned Index Structure for Spatial Data, \[[Paper](/Papers/LISA_A_Learned_Index_Structure_for_Spatial_Data.pdf)\], SIGMOD20.<br>
 Qd-Tree, Qd-tree: Learning Data Layouts for Big Data Analytics, \[[Paper](/Papers/Qd-tree.pdf)\], SIGMOD20.<br>
 
+RSMI, Effectively Learning Spatial Indices  \[[Paper](/Papers/Effectively_Learning_Spatial_Indices.pdf)\], VLDB20.<br>
+> like this?
+
+
 ### Secondary Index
 
 #### Multi-Dimensional
