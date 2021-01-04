@@ -28,10 +28,10 @@ Learned Bloom Filter, [Lifting_the_Curse_of_Multidimensional_Data_with_Learned_E
 LISA, LISA: A Learned Index Structure for Spatial Data, \[[Paper](/Papers/LISA_A_Learned_Index_Structure_for_Spatial_Data.pdf)\], SIGMOD20.<br>
 Qd-Tree, Qd-tree: Learning Data Layouts for Big Data Analytics, \[[Paper](/Papers/Qd-tree.pdf)\], SIGMOD20.<br>
 
-<b>RSMI, Effectively Learning Spatial Indices  \[[Paper](/Papers/Effectively_Learning_Spatial_Indices.pdf)\], VLDB20.</b>  
+#### RSMI, Effectively Learning Spatial Indices  \[[Paper](/Papers/Effectively_Learning_Spatial_Indices.pdf)\], VLDB20.
 > A recent study shows that a neural network can not only learn to predict the disk address of the data value associated with a one-dimensional search key but also outperform B-tree-based indexing, thus promises to speed up a broad range of database queries that rely on B-trees for efficient data access. We consider the problem of learning an index for two-dimensional spatial data. A direct application of a neural network is unattractive because there is no obvious ordering of spatial point data. Instead, we introduce a rank space based ordering technique to establish an ordering of point data and group the points into blocks for index learning. To enable scalability, we propose a recursive strategy that partitions a large point set and learns indices for each partition. Experiments on real and synthetic data sets with more than 100 million points show that our learned indices are highly effective and efficient. Query processing using our indices is more than an order of magnitude faster than the use of R-trees or a recently proposed learned index.
 
-[The Case for Learned Spatial Indexes](https://arxiv.org/abs/2008.10349), preprint  (Experimental work with Flood)
+#### [The Case for Learned Spatial Indexes](https://arxiv.org/abs/2008.10349), preprint  (Experimental work with Flood)
 > In this work, we use techniques proposed from a state-of-the art learned multi-dimensional index structure (namely, Flood) and apply them to five classical multi-dimensional indexes to be able to answer spatial range queries.
 
 ## Secondary Index
