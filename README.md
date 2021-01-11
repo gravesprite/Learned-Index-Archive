@@ -8,10 +8,10 @@ Arrange&amp;Categorize recent Learned Index Papers
 
 Learned Index Cases, [The_Case_for_Learned_Index_Structures](/Notes/Learned_Index_Presentation_2020_6_28.pptx) \[[Paper](/Papers/The_Case_for_Learned_Index_Structures.pdf)\], SIGMOD17. <br>
 Ada-Bloom Filter, Adaptive Learned Bloom Filter (Ada-BF):
-Efficient Utilization of the Classifier, \[[Paper](/Papers/Adaptive_Learned_Bloom_Filter_Efficient_Utilization_of_the_Classifier.pdf)\], preprint19.
-Sandwiching Bloom Filter, A Model for Learned Bloom Filters, and Optimizing by Sandwiching, \[[Paper](/Papers/A_Model_for_Learned_Bloom_Filters_and_Optimizing_by_Sandwiching.pdf)\], NIPS20.
-Partitioned Learned Bloom Filters(PLBF), Partitioned Learned Bloom Filters. \[[Paper](/Papers/Partitioned_Learned_Bloom_Filters.pdf)\], preprint20.
-RadixSpline(RS), RadixSpline: A Single-Pass Learned Index. \[[Paper](/Papers/RadixSpline_A_Single-Pass_Learned_Index.pdf)\], preprint20
+Efficient Utilization of the Classifier, \[[Paper](/Papers/Adaptive_Learned_Bloom_Filter_Efficient_Utilization_of_the_Classifier.pdf)\], preprint19.<br>
+Sandwiching Bloom Filter, A Model for Learned Bloom Filters, and Optimizing by Sandwiching, \[[Paper](/Papers/A_Model_for_Learned_Bloom_Filters_and_Optimizing_by_Sandwiching.pdf)\], NIPS20.<br>
+Partitioned Learned Bloom Filters(PLBF), Partitioned Learned Bloom Filters. \[[Paper](/Papers/Partitioned_Learned_Bloom_Filters.pdf)\], preprint20.<br>
+RadixSpline(RS), RadixSpline: A Single-Pass Learned Index. \[[Paper](/Papers/RadixSpline_A_Single-Pass_Learned_Index.pdf)\], preprint20<br>
 
 [SIndex A Scalable Learned Index for String Keys](https://dl.acm.org/doi/abs/10.1145/3409963.3410496).  SIGOPS20 workshop
 > current learned indexes primarily focus on integer-key workloads and failed to efficiently index variable-length string keys. We introduce SIndex, a concurrent learned index specialized in variable-length string key workloads. To reduce the cost of model inference and data accesses, SIndex groups keys with shared prefixes and use each key's unique part for model training. We evaluate SIndex with both real-world and synthesized datasets. The result shows that SIndex can achieve up to 91% better performance compared with other state-of-the-art index structures. We have open-sourced our implementation
