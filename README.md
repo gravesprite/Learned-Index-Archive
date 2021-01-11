@@ -18,6 +18,9 @@ RadixSpline(RS), RadixSpline: A Single-Pass Learned Index. \[[Paper](/Papers/Rad
 > Pure for String Key
 
 
+[A Pluggable Learned Index Method via Sampling and Gap Insertion](https://arxiv.org/abs/2101.00808). Preprint2021
+> With the guidance of the formal learning objective, we can efficiently learn index by incorporating the proposed sampling technique, and learn precise index with enhanced generalization ability brought by the proposed result-driven gap insertion technique.
+
 
 ### Multi-Dimensional
 
